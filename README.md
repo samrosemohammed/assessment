@@ -1,4 +1,4 @@
-# assessment
+# Assessment
 
 This repository contains a simple TypeScript function to check whether two strings are anagrams.
 
